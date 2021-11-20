@@ -1,0 +1,202 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #94B0DA;
+}
+
+.principal {
+    width: 100%;
+    height: 250px;
+    background: #B7C3F3;
+    transform: skewY(-4deg);
+    box-shadow: #9C528B 20px 10px 15px ;
+}
+.principal .contenido {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    right: 40%;
+}
+.principal .contenido .parrafito1 {
+    color: #893168;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    font-size: 21px;
+    transform: skewY(4deg);
+    padding: 1px;
+    margin: 50px;
+ }
+.principal .contenido .parrafito2 {
+    color: #893168;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    font-size: 13px;
+    transform: skewY(4deg);
+}
+.principal .img {
+    position: absolute;
+    top: 10%;
+    right: 8%;
+    width: 160px;
+    height: 160px;
+    border-radius: 100%;
+    transform: skewY(3deg);
+    overflow: hidden;
+    }
+.principal .img img {
+    width: 160px;
+    height: 180px;
+}
+
+.infor {
+    width: 60%;
+    height: auto;
+    background:#B7C3F3 ;
+    margin: 6% auto;
+    padding: 20px;
+    box-shadow: #9C528B 20px 10px 15px ;
+    border-radius: 20px;
+}
+.infor .seccion1 {
+    color: #4F0147;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 21px;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 3px #725AC1 dashed;
+}
+.infor .name {
+    color:  #0C1B33;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 19px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 30px;
+}
+.infor .infoname {
+    color:  black;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    display: inline;
+}
+.infor .tel {
+    color:  #0C1B33;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 19px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 20px;
+}
+.infor .infotel {
+    color:  black;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    display: inline;
+}
+.infor .correo {
+    color:  #0C1B33;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 19px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 20px;
+}
+.infor .infocorreo {
+    color:  black;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    display: inline;
+}
+.infor .id {
+    color:  #0C1B33;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 19px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 20px;
+}
+.infor .infoid {
+    color:  black;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    display: inline;
+}
+.sobremi {
+    width: 60%;
+    height: auto;
+    background:#B7C3F3 ;
+    margin: 6% auto;
+    padding: 20px;
+    box-shadow: #9C528B 20px 10px 15px ;
+    border-radius: 20px;
+}
+.sobremi .seccion2 {
+    color: #4F0147;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 21px;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 3px #725AC1 dashed;
+}
+.sobremi .quiensoy {
+    color:  black;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+.experience {
+    width: 60%;
+    height: auto;
+    background:#B7C3F3 ;
+    margin: 6% auto;
+    padding: 20px;
+    box-shadow: #9C528B 20px 10px 15px ;
+    border-radius: 20px;
+}
+.experience .seccion3 {
+    color: #4F0147;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 21px;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 3px #725AC1 dashed;
+}
+.experience .experiencia {
+    color:  black;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+.Idiomas {
+    width: 60%;
+    height: auto;
+    background:#B7C3F3 ;
+    margin: 6% auto;
+    padding: 20px;
+    box-shadow: #9C528B 20px 10px 15px ;
+    border-radius: 20px;
+}
+.Idiomas .seccion4 {
+    color: #4F0147;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 21px;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 3px #725AC1 dashed;
+}
+.Idiomas .idioms {
+    color:  #0C1B33;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 19px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 20px;
+}
+.Idiomas .infoidioms{
+    color:  black;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    display: inline;
+}

@@ -1,0 +1,27 @@
+#oscuro {
+    width: 30px;
+    font-size: 45px;
+    margin: auto;
+    cursor: pointer;
+}
+.dark {
+    background: #8A6BB3;
+}
+.dark .principal {
+    background: #D3B4E4;
+}
+.dark .infor {
+    background: #D3B4E4;
+}
+.dark .sobremi {
+    background: #D3B4E4;
+}
+.dark .experience {
+    background: #D3B4E4;
+    }
+.dark #oscuro {
+    color: #96D9C5;
+}
+.dark .Idiomas {
+    background: #D3B4E4;
+}

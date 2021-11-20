@@ -1,0 +1,33 @@
+.menu {
+    list-style: none;
+    padding: 1%;
+    background: hsl(292, 28%, 68%);
+    width: 80%;
+    margin: auto;
+    right: 40%;
+    border-radius: 20px;
+    box-shadow: #9C528B 20px 10px 10px ;
+    }
+.menu .boton {
+    display: inline-block;
+    color: #231942;
+    padding: 5px; 
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+}
+.menu li {
+    display: inline-block;
+}
+.menu li a {
+    text-decoration: none;  
+    color: #231942;
+    padding: 20px; 
+    display: block;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+    }
+.menu li a:hover {
+    background: #928BBB;
+}
